@@ -1,0 +1,12 @@
+.icon-inactive {
+  font-size: 100px;
+  color: blue;
+  opacity: 0.1;
+}
+
+.icon-active {
+  font-size: 100px;
+  color: blue;
+  opacity: 1;
+
+}
